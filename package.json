@@ -1,5 +1,5 @@
 {
-  "name": "jsdom",
+  "name": "jsdom-light",
   "version": "1.0.1",
   "description": "A JavaScript implementation of the DOM and HTML standards",
   "keywords": [
@@ -62,7 +62,6 @@
     "url": "git://github.com/tmpvar/jsdom.git"
   },
   "dependencies": {
-    "contextify": ">= 0.1.9 < 0.2.0",
     "cssom": ">= 0.3.0 < 0.4.0",
     "cssstyle": ">= 0.2.14 < 0.3.0",
     "htmlparser2": ">= 3.7.3 < 4.0.0",
