@@ -47,19 +47,20 @@
     "Samori Gorse <samorigorse@gmail.com> (http://github.com/shinuza)",
     "John Roberts <jroberts@logitech.com>",
     "Chad Walker <chad@chad-cat-lore-eddie.com> (https://github.com/chad3814)",
-    "Zach Smith <x.coder.zach@gmail.com> (https://github.com/xcoderzach)"
+    "Zach Smith <x.coder.zach@gmail.com> (https://github.com/xcoderzach)",
+    "Alexei Solodovnicov <solo@solo.md> (https://github.com/solo-md)"
   ],
   "bugs": {
-    "email": "tmpvar@gmail.com",
-    "url": "http://github.com/tmpvar/jsdom/issues"
+    "email": "solo@solo.md",
+    "url": "https://github.com/solo-md/jsdom-light/issues"
   },
   "license": {
     "type": "MIT",
-    "url": "http://github.com/tmpvar/jsdom/blob/master/LICENSE.txt"
+    "url": "https://github.com/solo-md/jsdom-light/blob/master/LICENSE.txt"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tmpvar/jsdom.git"
+    "url": "https://github.com/solo-md/jsdom-light.git"
   },
   "dependencies": {
     "cssom": ">= 0.3.0 < 0.4.0",
